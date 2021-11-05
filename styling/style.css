@@ -20,6 +20,8 @@ a{
 
 .header-bar{
     padding:0;
+    text-align: left;
+    font-family: unset;
 }
 
 
